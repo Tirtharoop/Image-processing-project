@@ -1,1 +1,1 @@
-# Image-processing-project
+Attendance system using Facial recognization
